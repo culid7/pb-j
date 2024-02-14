@@ -1,0 +1,13 @@
+html {
+  background: #680a0a;
+}
+
+body {
+
+  background: white;
+  width: 400px;
+  margin: 50px auto;
+  padding: 25px 75px;
+  border: radius 50px; ;
+  font font-family: arial, helvetica, sans-serif;
+}
